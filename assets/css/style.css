@@ -320,16 +320,14 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #64998d;
   position: relative;
+  padding-top: 30px;
 }
 
 #intro.section .container {
   color: white;
   font-weight: 200;
-  left: 0;
-  position: absolute;
-  top: 0;
 }
 
 /* #intro.section .container *:not(span) {
