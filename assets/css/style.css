@@ -565,9 +565,9 @@ small {
 } */
 
 @media (min-width: 1200px) {
-  #experience .container {
+  /* #experience .container {
     width: 860px;
-  }
+  } */
 }
 
 @media (max-width: 1360px) {
@@ -705,4 +705,8 @@ small {
   .downloadresumebtn{
     margin-top: 10px;
   }
+}
+
+.skills_row{
+  margin-bottom: 3em;
 }
